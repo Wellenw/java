@@ -35,3 +35,4 @@ INSERT INTO xuesheng(name,ban_id)VALUES('赵六',99);
 SELECT * FROM banji;
 SELECT * FROM xuesheng;
 SELECT * FROM xuesheng;
+SELECT * FROM xuesheng;
